@@ -1,0 +1,15 @@
+category,success_rate_pct,failure_rate_pct
+Pulp,50.0,0
+Paper,5.88,41.18
+Paint,0,11.11
+Other,8.33,32.29
+Oil and Gas,0,33.33
+Offshore / Marine,9.76,7.32
+Machinery,18.18,9.09
+Leasing,0,0
+Electric Material,3.77,30.19
+Containers,11.76,29.41
+Constructions,0,33.33
+Commodities,33.33,33.33
+Chemicals,0,12.5
+Automotive,10.0,33.33

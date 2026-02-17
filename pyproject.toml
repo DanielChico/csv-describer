@@ -1,0 +1,10 @@
+[project]
+name = "csv-describer"
+version = "0.1.0"
+description = "Chart Description Generator — generates narrative descriptions from CSV dashboard data using LLMs"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=2.21.0",
+    "python-dotenv>=1.2.1",
+]
